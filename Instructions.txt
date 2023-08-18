@@ -1,0 +1,12 @@
+access the playlist through the link given below:
+
+https://youtube.com/playlist?list=PL0b6OzIxLPbzf12lu5etX_vjN-eUxgxnr
+
+source: Yahoo Baba
+
+watch lectures from the playlist.
+you can use my databases for practicing purpose.
+cheatsheet is given to ensure the quries related to that databases.
+notes are given for some important keypoints.
+
+JUST IMPORT THAT ON MYSQL-WORKBENCH AND START LEARNING FROM VIDEO LECTURES AND PRACTICING.
